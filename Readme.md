@@ -35,8 +35,8 @@ $ yarn server
  <h2 id="techs"> 💻 Tecnologias</h2>
  As seguintes ferramentas foram usadas na construção do projeto:
 
->  [ReactJs]()
-> [Json Server (Feke api)]()
+- [ReactJs]()
+- [Json Server (Feke api)]()
 
 
 
